@@ -1,2 +1,5 @@
 # SimTanka
 iOS version of SimTanka
+# A Free and Open Source App for Facilitating the Use of Rainwater Harvesting Systems with Covered Storage Tank 
+## Summary
+Rainwater harvested and stored in covered storage tanks can help mitigate the severe water scarcity which exists in large parts of the world.  This scarcity is likely to increase due to global warming. SimTanka is a unique app that facilitates the building and use of such rainwater harvesting systems (RWHS) by taking explicitly into account the fluctuations in rainfall, these fluctuations will be aggravated by global warming. It does so in two different ways. Firstly, when the user is exploring the possibility of building a RWHS it informs the user, based on the users water budget and the past rainfall records, to what extent users water demand can be met reliably by building a RWHS. Once the user decides to build a RWHS, SimTanka can estimate the future performance of the RWHS helping the user to achieve water security. SimTanka also enables the user to keep a simple water-diary that records the performance of the RWHS, water quality and maintenance activities. 
